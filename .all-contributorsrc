@@ -1323,6 +1323,33 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "ariel-diaz",
+      "name": "ari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20423540?v=4",
+      "profile": "https://github.com/ariel-diaz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Vispercept",
+      "name": "Thomas König",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7080389?v=4",
+      "profile": "http://www.koenigthomas.de/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "coocos",
+      "name": "Kalle Lämsä",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1397804?v=4",
+      "profile": "https://github.com/coocos",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "nodebestpractices",
